@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="categories-select-all" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
